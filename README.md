@@ -1,232 +1,218 @@
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; display:inline-block;">
+<div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Golla+Mahitha" />
+
+### 💻 Backend Developer | MuleSoft Developer | Integration Developer
+
 </div>
 
-<h3 align="center">💻 Backend Developer | MuleSoft Developer | Integration Developer</h3>
+---
 
-<br>
+## 👋 About Me
 
-<ul>
-
-<li>🚀 Interested in building scalable backend applications and enterprise integration solutions.</li>
-
-<li>🔗 Learning and working with <b>MuleSoft Anypoint Platform</b> and API-led connectivity.</li>
-
-<li>⚡ Experienced in designing and testing <b>REST APIs</b> using Postman and API integration concepts.</li>
-
-<li>☕ Strong foundation in <b>Java</b> and object-oriented programming.</li>
-
-<li>🗄️ Working with <b>MySQL</b> for database management and backend applications.</li>
-
-<li>🔄 Exploring <b>Anypoint Studio and DataWeave</b> for developing and transforming integration flows.</li>
-
-<li>🌱 Continuously improving my backend development, API integration and enterprise integration skills.</li>
-
-<li>🤝 Open to internships, collaborations and entry-level opportunities in Backend, MuleSoft and Integration Development.</li>
-
-</ul>
+- 🚀 Interested in building scalable backend applications and enterprise integration solutions.
+- 🔗 Learning and working with **MuleSoft Anypoint Platform** and API-led connectivity.
+- ⚡ Experienced in designing and testing **REST APIs** using Postman.
+- ☕ Strong foundation in **Java** and Object-Oriented Programming.
+- 🗄️ Working with **MySQL** for database management and backend applications.
+- 🔄 Exploring **Anypoint Studio** and **DataWeave** for integration flows and data transformation.
+- 🌱 Continuously improving my backend development, API integration and enterprise integration skills.
+- 🤝 Open to internships, collaborations and entry-level opportunities.
 
 ---
 
-### 👨‍💻 Passionate About
+## 👨‍💻 Passionate About
 
-* ☕ Backend development using **Java**
-* 🔗 **API Integration** and enterprise application connectivity
-* 🚀 **MuleSoft Anypoint Platform**
-* 🛠️ Building integration flows using **Anypoint Studio**
-* 🔄 Data transformation using **DataWeave**
-* 🌐 Designing and testing **REST APIs**
-* 🗄️ Database connectivity using **MySQL**
-* 📮 API testing using **Postman**
-* ⚙️ Understanding how different applications communicate with each other
-
----
-
-### 🌱 Growth Mindset
-
-* 🚀 Continuously improving backend development skills
-* 🧠 Strengthening Java and problem-solving fundamentals
-* 🔗 Learning API-led connectivity and integration patterns
-* ⚡ Practicing DataWeave transformations and Mule flows
-* 📚 Building hands-on integration projects
-* 🤝 Open to learning new enterprise technologies
+- ☕ Backend development using **Java**
+- 🔗 **API Integration** and enterprise application connectivity
+- 🚀 **MuleSoft Anypoint Platform**
+- 🛠️ Building integration flows using **Anypoint Studio**
+- 🔄 Data transformation using **DataWeave**
+- 🌐 Designing and testing **REST APIs**
+- 🗄️ Database connectivity using **MySQL**
+- 📮 API testing using **Postman**
+- ⚙️ Understanding how different applications communicate with each other
 
 ---
 
-### 🛠️ Tech Stack
+## 🌱 Growth Mindset
 
-<p align="center">
+- 🚀 Continuously improving backend development skills
+- 🧠 Strengthening Java and problem-solving fundamentals
+- 🔗 Learning API-led connectivity and integration patterns
+- ⚡ Practicing DataWeave transformations and Mule flows
+- 📚 Building hands-on integration projects
+- 🤝 Open to learning new enterprise technologies
 
-<b>Programming</b><br/>
+---
 
-<img src="https://skillicons.dev/icons?i=java" />
+## 🛠️ Tech Stack
 
-<br/><br/>
+### Programming
 
-<b>Backend & APIs</b><br/>
+<p>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=spring,postman" />
+### Backend & APIs
 
-<br/><br/>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,postman" height="45"/>
+</p>
 
-<b>MuleSoft & Integration</b><br/>
+### MuleSoft & Integration
 
-<img src="https://img.shields.io/badge/MuleSoft-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/MuleSoft-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Anypoint%20Platform-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Anypoint%20Studio-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/DataWeave-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white" height="32"/>
+</p>
 
-<img src="https://img.shields.io/badge/Anypoint%20Platform-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white" />
+### Database
 
-<img src="https://img.shields.io/badge/Anypoint%20Studio-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</p>
 
-<img src="https://img.shields.io/badge/DataWeave-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white" />
+### Tools
 
-<br/><br/>
-
-<b>Database</b><br/>
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<br/><br/>
-
-<b>Tools</b><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
 </p>
 
 ---
 
-### 🔗 API & Integration Skills
+## 🔗 API & Integration Skills
 
-* 🌐 REST API Development
-* 📮 API Testing with Postman
-* 🔄 Data Transformation using DataWeave
-* 🛠️ Mule Application Development
-* 🔗 API-led Connectivity
-* ⚙️ Anypoint Studio
-* ☁️ Anypoint Platform
-* 🗄️ Database Integration with MySQL
-* 🔌 System-to-System Integration
-* 📡 HTTP-based integrations
-
----
-
-### 🚀 Featured Projects
-
-#### 📰 News Article Categorization System
-
-* 📰 Developed an application for categorizing news articles.
-* ☕ Implemented application logic using Java and OOP concepts.
-* 🔍 Categorized articles based on keywords and predefined categories.
-* 🗄️ Integrated MySQL for storing articles and classification results.
-* 🔗 Used JDBC for database connectivity.
-* 📮 Tested application APIs using Postman.
-* **Tech Stack:** Java, MySQL, JDBC, REST API, Postman
+- 🌐 REST API Development
+- 📮 API Testing with Postman
+- 🔄 Data Transformation using DataWeave
+- 🛠️ Mule Application Development
+- 🔗 API-led Connectivity
+- ⚙️ Anypoint Studio
+- ☁️ Anypoint Platform
+- 🗄️ Database Integration with MySQL
+- 🔌 System-to-System Integration
+- 📡 HTTP-based Integrations
 
 ---
 
-#### 🔗 API Integration Project
+## 🚀 Featured Projects
 
-* 🚀 Developed an API integration solution using MuleSoft.
-* 🔗 Created REST-based integration flows using Anypoint Studio.
-* 🔄 Used DataWeave for transforming data between different formats.
-* 📮 Tested APIs and integration flows using Postman.
-* ⚙️ Implemented request and response handling.
-* **Tech Stack:** MuleSoft, Anypoint Studio, Anypoint Platform, DataWeave, REST API, Postman
+### 📰 News Article Categorization System
 
----
+- 📰 Developed an application for categorizing news articles.
+- ☕ Implemented application logic using **Java and OOP concepts**.
+- 🔍 Categorized articles based on keywords and predefined categories.
+- 🗄️ Integrated **MySQL** for storing articles and classification results.
+- 🔗 Used **JDBC** for database connectivity.
+- 📮 Tested application APIs using **Postman**.
 
-#### 🛒 Backend Application
-
-* ☕ Developed a backend application using Java.
-* 🔗 Designed REST APIs for application operations.
-* 🗄️ Integrated MySQL database for persistent data storage.
-* 📮 Tested API endpoints using Postman.
-* **Tech Stack:** Java, REST API, MySQL, Postman
+**Tech Stack:** Java, MySQL, JDBC, REST API, Postman
 
 ---
 
-### 📊 GitHub Stats
+### 🔗 API Integration Project
 
-<p align="center">
+- 🚀 Developed an API integration solution using **MuleSoft**.
+- 🔗 Created REST-based integration flows using **Anypoint Studio**.
+- 🔄 Used **DataWeave** for transforming data between different formats.
+- 📮 Tested APIs and integration flows using **Postman**.
+- ⚙️ Implemented request and response handling.
 
-<img src="https://github-readme-stats.vercel.app/api?username=gollamahitha96-arc&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=gollamahitha96-arc&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gollamahitha96-arc&theme=tokyo-night&hide_border=true&area=true" />
-
-</p>
+**Tech Stack:** MuleSoft, Anypoint Studio, Anypoint Platform, DataWeave, REST API, Postman
 
 ---
 
-### 🧩 LeetCode
+### 🛒 Backend Application
 
-<p align="center">
+- ☕ Developed a backend application using **Java**.
+- 🔗 Designed REST APIs for application operations.
+- 🗄️ Integrated **MySQL** for persistent data storage.
+- 📮 Tested API endpoints using **Postman**.
+
+**Tech Stack:** Java, REST API, MySQL, Postman
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gollamahitha96-arc&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=gollamahitha96-arc&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gollamahitha96-arc&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🧩 LeetCode
+
+<div align="center">
 
 <a href="https://leetcode.com/u/mahithagolla/">
 
-<img src="https://leetcard.jacoblin.cool/mahithagolla?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/mahithagolla?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 
 </a>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/u/mahithagolla/">
 
-<img src="https://img.shields.io/badge/LeetCode-mahithagolla-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-mahithagolla-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </a>
 
-</p>
+</div>
 
 ---
 
+## 🏆 HackerRank
 
-### 🏆 HackerRank Stats
-
-<p align="center">
+<div align="center">
 
 <a href="https://www.hackerrank.com/profile/gollamahitha96">
 
-<img src="https://img.shields.io/badge/HackerRank%20Stats-gollamahitha96-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerRank-gollamahitha96-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
 </a>
 
-</p>
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://github.com/gollamahitha96-arc/gollamahitha96-arc/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://github.com/gollamahitha96-arc/gollamahitha96-arc/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-</p>
-
----
-
-### 📫 Contact Me
-
-* 📧 Email: **[gollamahitha96@gmail.com](mailto:gollamahitha96@gmail.com)**
-* 💼 LinkedIn: [Profile](https://www.linkedin.com/in/mahitha94)
-* 💻 GitHub: [gollamahitha96-arc](https://github.com/gollamahitha96-arc)
-* 🧩 LeetCode: [mahithagolla](https://leetcode.com/u/mahithagolla/)
-* 🏆 HackerRank: [gollamahitha96](https://www.hackerrank.com/profile/gollamahitha96)
+</div>
 
 ---
 
-### 🎓 Education
+## 📫 Contact Me
+
+- 📧 Email: **gollamahitha96@gmail.com**
+- 💼 LinkedIn: [Mahitha Golla](https://www.linkedin.com/in/mahitha94)
+- 💻 GitHub: [gollamahitha96-arc](https://github.com/gollamahitha96-arc)
+- 🧩 LeetCode: [mahithagolla](https://leetcode.com/u/mahithagolla/)
+- 🏆 HackerRank: [gollamahitha96](https://www.hackerrank.com/profile/gollamahitha96)
+
+---
+
+## 🎓 Education
 
 **B.Tech – Artificial Intelligence and Machine Learning**
 
@@ -236,7 +222,7 @@ PBR Visvodaya Institute of Technology & Science, Kavali
 
 ---
 
-### ✨ Fun Fact
+## ✨ Fun Fact
 
 > I enjoy understanding how different systems communicate with each other 🔗
 
@@ -244,14 +230,10 @@ PBR Visvodaya Institute of Technology & Science, Kavali
 
 ---
 
-<p align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=3&section=footer" />
 
-</p>
+### ⭐ Thanks for visiting my profile! ⭐
 
-<p align="center">
-
-<b>⭐ Thanks for visiting my profile! ⭐</b>
-
-</p>
+</div>
